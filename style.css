@@ -1,0 +1,137 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+
+   #container{
+    display: flex;
+    width: 100%;
+   }
+
+#image1{
+  display: flex;
+  margin-top: 120px;
+  margin-left: 160px;
+  height: 150px;
+  width: 270px;
+}
+#paragraph{
+  margin-left: 47px;
+  font-size: 25px;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: rgb(69, 72, 82);
+}
+#paragraph2{
+  margin-left: 165px;
+  color:rgba(136, 138, 136,1) ;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-top: 20px;
+}
+ #image2{
+   display: flex;
+  height: 500px;
+  width: 500px;
+   margin-left: 200px;
+   margin-top: 60px;
+ 
+} 
+#image3{
+  display: flex;
+  width: 550px;
+  height: 550px;
+  margin-left: 70px;
+}
+#container2{
+  display: flex;
+} 
+#paragraph3{
+  margin-top: 170px;
+  margin-left: 240px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 30px;
+}
+#paragraph4{
+  margin-top: 30px;
+  margin-left: 135px;
+  font-size: 30px; 
+  color:rgba(136, 138, 136,0.5);
+  text-align: center; 
+  font-variant: initial;
+font-family: 'Roboto', sans-serif;
+  font-weight: 100;   
+
+}
+#message{
+  margin-top: 120px;
+  margin-left: 190px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+ #container3{
+display: flex;
+} 
+
+#paragraph5{
+  margin-top: 30px;
+  margin-left: 80px;
+  font-size: 40px;
+  text-align: center;
+  color:rgb(136, 138, 136, 0.5);
+  font-family: 'Roboto', sans-serif;
+}
+#image4{
+  height: 500px;
+  width: 500px;
+  margin-left: 200px;
+}
+#image5{
+  width: 550px;
+  height: 580px;
+  margin-left: 100px;
+  margin-top: 25px;
+}
+
+#container4{
+  display: flex;
+}
+ #image6{
+  width: 600px;
+  height: 600x;
+  margin-top: 100px;
+} 
+#future{
+  margin-left: 200px;
+  font-size: 35px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#paragraph6{
+  margin-top: 30px;
+  margin-left: 39px;
+  font-size: 33px;
+  text-align: center;
+  color:rgb(136, 138, 136, 0.5);
+  font-family: 'Roboto', sans-serif;
+}
+#download{
+  margin-top: 100px;
+  text-align: center;
+  font-size: 23px;
+  font-family: 'Roboto Condensed', sans-serif;
+  
+}
+#image7{
+  display: flex;
+  width: 200px;
+  height: 80px;
+  margin-top: 20px;
+  margin-left: 460px;
+}
+#contact{
+  font-size: 23px;
+margin-left: 455px;
+}
+#image8{
+  margin-left: 590px;
+  margin-top: 10px;
+  height: 120px;
+  width: 120px;
+}
