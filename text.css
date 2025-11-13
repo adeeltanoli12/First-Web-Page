@@ -1,0 +1,152 @@
+*{
+    padding: 0%;
+    margin: 0;
+color: white;
+}
+
+#input1::placeholder{
+    color:white;
+    opacity:1;
+}
+#input2::placeholder{
+    color:white;
+    opacity:1;
+}
+#input3::placeholder{
+    color:white;
+    opacity:1;
+}
+#input5::placeholder{
+    color:white;
+    opacity:1;
+}
+#input7::placeholder{
+    color:white;
+    opacity:1;
+}
+#input8::placeholder{
+    color:white;
+    opacity:1;
+}
+#input9::placeholder{
+    color:white;
+    opacity:1;
+}
+#input11::placeholder{
+    color:white;
+    opacity:1;
+}
+#container1{
+    display: flex;
+    background-color: rgb(140, 49, 49);
+    margin-left: 50px;
+}
+#contentbox2{
+    margin-left: 100px;
+    margin-top: 34px;
+}
+
+#logo{
+    height: 80px;
+    width: 80px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+#heading1{
+    margin-top: 200px;
+    margin-left: 150px;
+    font-size: 45px;
+    color: black;
+}
+#paragraph1{
+    margin-top: 10px;
+    margin-left: 150px;
+    color: black;
+}
+#heading2{
+    margin-left: 150px;
+    margin-top: 20px;
+    font-size: 24px;
+    color: black;
+}
+#heading3{
+    color: black;
+}
+#input1 {
+    height: 35px;
+    width: 400px;
+    background-color: rgb(140, 49, 49);
+    border: 2px solid whitesmoke;
+    
+}
+#input2{
+    height: 35px;
+    width: 400px;
+     background-color: rgb(140, 49, 49);
+    border: 2px solid whitesmoke;
+}
+#input3{
+    height: 35px;
+    width: 400px;
+     background-color: rgb(140, 49, 49);
+    border: 2px solid whitesmoke;
+}
+#input5{
+    height: 45px;
+    width: 400px;
+     background-color: rgb(140, 49, 49);
+    border: 2px solid whitesmoke;
+}
+#input7{
+    height: 45px;
+    width: 400px;
+     background-color: rgb(140, 49, 49);
+    border: 2px solid whitesmoke;
+}
+#input8{
+    height: 45px;
+    width: 400px;
+     background-color: rgb(140, 49, 49);
+    border: 2px solid whitesmoke;
+}
+#input9{
+    height: 45px;
+    width: 400px;
+     background-color: rgb(140, 49, 49);
+    border: 2px solid whitesmoke;
+}
+#input11{
+    height: 45px;
+    width: 400px;
+     background-color: rgb(140, 49, 49);
+    border: 2px solid whitesmoke;
+}
+#button{
+    height: 45px;
+    width: 250px;
+    margin-bottom: 50px;
+     font-size: 20px;
+    border: 2px solid whitesmoke;
+    color: rgb(84, 78, 81);
+}
+
+
+
+ .section {
+    background-color: #7b2f2f; 
+    height: 999px;            
+    width: 70px;
+    position: relative;
+  }
+
+    .section::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-top: 100px solid transparent;
+    border-right: 100px solid white;     
+   
+  }
